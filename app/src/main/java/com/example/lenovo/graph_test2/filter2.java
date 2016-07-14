@@ -1,7 +1,7 @@
 package com.example.lenovo.graph_test2;
 
 
-public class filter2 {
+public class    filter2 {
     void fil(final double a[], final double b[], final double N[], double p
             []) {
         double b_b[] = new double[3];
